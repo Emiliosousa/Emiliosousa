@@ -1,5 +1,5 @@
 <!-- Banner con estilo -->
-<img src="https://i.imgur.com/dM7Thhn.png" alt="Banner de Emilio Sousa" width="100%"/>
+<img src="banner.png" alt="Banner de Emilio Sousa" width="100%"/>
 
 #  ¡Hola! Soy **Emilio Sousa**
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 **Lenguajes:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,7 +72,7 @@
 ##  Encuéntrame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioSousa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emiliosousa)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=firefox)](TU_PORTFOLIO_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=firefox)](https://www.emiliosousainformatica.es/)  
  **Email:** emiliosousagutierrez1015@gmail.com  
 
 ---
