@@ -3,7 +3,7 @@
 
 #  ¡Hola! Soy **Emilio Sousa**
 
- **Estudiante de Ingeniería Informática** (último año) – *curso por año, sin prisa pero sin pausa*.  
+ **Estudiante de Ingeniería Informática en la US**  – *este año terminamos inshallah*.  
  Apasionado por el código limpio, el software bien diseñado y los retos tecnológicos.  
  Amante de la automatización, la eficiencia y las soluciones que no solo funcionan… sino que impresionan.  
 
@@ -11,10 +11,10 @@
 
 ##  Sobre mí
 
-- 🔹 21 años, desarrollador full-stack en formación.  
-- 🔹 Experiencia en **backend, frontend y sistemas**.  
-- 🔹 Me apasiona crear, aprender y optimizar procesos.  
-- 🔹 Capaz de trabajar en equipo y también de perderme horas en *debug mode*.  
+-  21 años, desarrollador full-stack en formación.  
+-  Experiencia en **backend, frontend y sistemas**.  
+-  Me apasiona crear, aprender y optimizar procesos.  
+-  Capaz de trabajar en equipo y también de perderme horas en *debug mode*.  
 
 ---
 
