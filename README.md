@@ -1,7 +1,7 @@
 <!-- Banner con estilo -->
 <img src="banner.png" alt="Banner de Emilio Sousa" width="100%"/>
 
-#  ¡Hola! Soy **Emilio Sousa**
+#  Hello World! Soy **Emilio Sousa**
 
  **Estudiante de Ingeniería Informática en la US**  – *este año terminamos inshallah*.  
  Apasionado por el código limpio, el software bien diseñado y los retos tecnológicos.  
