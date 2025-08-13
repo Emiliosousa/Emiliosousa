@@ -73,6 +73,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EmilioSousa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emiliosousa)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Web-orange?style=for-the-badge&logo=firefox)](https://www.emiliosousainformatica.es/)  
- **Email:** emiliosousagutierrez1015@gmail.com  
+
 
 ---
